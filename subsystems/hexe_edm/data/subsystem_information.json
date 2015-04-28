@@ -2,7 +2,8 @@
   "_id" : "subsystem_information",
   "prettyname" : "He-Xe EDM",
   "pages" : {
-        "Control" : "control.html",
+        "Slow Control" : "slow_control.html",
+        "DAQ Control" : "daq_control.html",
         "Monitor" : "monitor.html",
         "Overview" : "overview.html"
   }
